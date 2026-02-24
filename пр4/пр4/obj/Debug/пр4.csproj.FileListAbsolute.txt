@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\пр4\пр4\bin\Debug\пр4.exe.config
+C:\Users\user\source\repos\пр4\пр4\bin\Debug\пр4.exe
+C:\Users\user\source\repos\пр4\пр4\bin\Debug\пр4.pdb
+C:\Users\user\source\repos\пр4\пр4\obj\Debug\пр4.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\пр4\пр4\obj\Debug\пр4.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\пр4\пр4\obj\Debug\пр4.exe
+C:\Users\user\source\repos\пр4\пр4\obj\Debug\пр4.pdb
